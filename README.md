@@ -2,7 +2,7 @@
 
 Breakout is a cutting-edge app designed exclusively for event planners, revolutionizing the way conferences are planned and organized. Seamlessly combining powerful planning tools with effortless post-conference management, Breakout is your go-to solution for crafting unforgettable live events.
 
-**Link to project:** (Coming Soon)[#)
+**Link to project:** [Coming Soon](#)
 
 ## How It's Made:
 
