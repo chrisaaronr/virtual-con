@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create New Conference</title>
+</head>
+<body>
+    <form action="/createConf" method="POST">
+        <div>
+            <label for="confName" class="form-label">Conference Name</label>
+            <input type="text" class="form-control" id="confName" name="confName">
+        </div>
+        <div>
+            <label for="confStart" class="form-label">Start Date</label>
+            <input type="date" class="form-control" id="confStart" name="confStart">
+        </div>
+        <div>
+            <label for="confEnd" class="form-label">End Date</label>
+            <input type="date" class="form-control" id="confEnd" name="confEnd">
+        </div>
+        <button type="submit" class="btn btn-primary">Add</button>
+      </form>
+</body>
+</html>
