@@ -21,7 +21,7 @@ Breakout is a cutting-edge app designed exclusively for event planners, revoluti
 ### 3. Database (MongoDB)
 - **MongoDB:** MongoDB is a NoSQL database used to store the data for the application. It provides a scalable data storage solution with a flexible schema. In Breakout, MongoDB stores all the event data, including details about conferences, organizers, speakers, attendees, etc.
 
-## Optimizations
+## Optimization
 
 
 ## Lessons Learned:
